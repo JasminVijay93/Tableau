@@ -1,3 +1,14 @@
-A dashboard created on the basis to track the spend amount and vendor details
-# Tableau![image](https://user-images.githubusercontent.com/115640239/213929941-4d3a3877-3c4f-4991-bd9e-91a0fa004540.png)
+Following are one of the dashboard created for the Spend analytics dataset.
+
+
+I have derived an extra column to find the companies who acheived target amount by setting a threshold amount.
+
+Please find my website for more details :  https://jazzjvp.wixsite.com/portfolio
+
+Linkedin Profile: https://www.linkedin.com/in/jasmin-vijay/
+
+
+
+![image](https://user-images.githubusercontent.com/115640239/215156482-86426e2a-30d5-4df5-aaed-1c28b52d8981.png)
+
 
